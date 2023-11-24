@@ -1,9 +1,9 @@
 # Setup
 title: Dark Poole
-url: http://yawqi.github.io
+url: http://yawqi.github.io/dark-poole
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: ""
+baseurl: "/dark-poole"
 permalink: pretty
 
 # Gems
